@@ -4,4 +4,5 @@ package main
 func main() {
 	theoryMain()
 	structMain()
+	typeMain()
 }

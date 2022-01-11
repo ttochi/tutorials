@@ -5,4 +5,5 @@ func main() {
 	theoryMain()
 	structMain()
 	typeMain()
+	routineMain()
 }
